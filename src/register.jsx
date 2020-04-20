@@ -4,7 +4,7 @@ import loginIMG from "../../bow.jpg";
 export class Register extends React.Component { 
 
    constructor(props) {
-       super(props);
+       super(props); 
 
    }  
    render(){
